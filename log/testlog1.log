@@ -1,0 +1,29 @@
+2021-08-25 15:50:16,175 [main] INFO LMS - UserName Entered
+2021-08-25 15:50:18,436 [main] INFO LMS - Password Entered
+2021-08-25 15:50:38,723 [main] INFO LMS - Login Clicked
+2021-08-25 15:50:40,881 [main] INFO LMS - LMS_DashBoard is opened
+2021-08-25 15:50:45,362 [main] INFO LMS - ScoreCard is opened
+2021-08-25 15:51:22,166 [main] INFO LMS - ScoreCard is CLosed
+2021-08-25 15:51:23,632 [main] INFO LMS - Profile selected
+2021-08-25 15:51:26,868 [main] INFO LMS - Logout Clicked
+2021-08-25 15:51:26,897 [main] INFO LMS - Login page opened
+2021-08-25 15:51:27,219 [main] INFO LMS - Login Page Opened
+2021-08-25 15:51:27,551 [main] INFO LMS - UserName entered
+2021-08-25 15:51:28,694 [main] INFO LMS - Password Entered
+2021-08-25 15:51:38,570 [main] INFO LMS - Login Clicked
+2021-08-25 15:51:38,686 [main] INFO LMS - LMS Dashboard opened
+2021-08-25 15:51:39,481 [main] INFO LMS - Java Course Selected
+2021-08-25 15:51:49,706 [main] INFO LMS - Switched to Course Tab
+2021-08-25 15:51:53,029 [main] INFO LMS - OOPs Concept selected
+2021-08-25 15:52:04,750 [main] INFO LMS - OOPs concept selected
+2021-08-25 15:52:33,235 [main] INFO LMS - PPT Opened
+2021-08-25 15:52:35,993 [main] INFO LMS - Course Tab Closed
+2021-08-25 15:52:37,014 [main] INFO LMS - LMS Dashboard Opened
+2021-08-25 15:52:43,456 [main] INFO LMS - Profile Selected
+2021-08-25 15:52:48,166 [main] INFO LMS - Logout Clicked
+2021-08-25 15:52:48,191 [main] INFO LMS - Login Page Opened
+2021-08-25 15:52:48,471 [main] INFO LMS - LOgin Page Opened
+2021-08-25 15:52:48,835 [main] INFO LMS - UserName Entered
+2021-08-25 15:52:49,067 [main] INFO LMS - Password Not Entered
+2021-08-25 15:52:52,316 [main] INFO LMS - Login Button Clicked
+2021-08-25 15:52:52,348 [main] INFO LMS - Login Failed
